@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "address": "Pine street 32",
+  "agent": {
+    "id": 1
+  },
+  "name": "White House",
+  "price": 500000,
+  "status": "FOR_SALE",
+  "views": 99
+}

@@ -1,0 +1,9 @@
+{
+  "agent": {
+    "id": 1
+  },
+  "price": 1000000,
+  "realEstate": {
+    "id": 1
+  }
+}
